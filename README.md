@@ -1,8 +1,7 @@
 # CredFlow
 
-**Developed by Happy Kumar**
 
-CredFlow is a full-stack Loan Management System built with React, Node.js, and MongoDB. It covers the complete loan lifecycle — authentication, loan applications, admin approvals, EMI scheduling and payments, and role-based dashboards — with a clean, responsive, production-ready UI.
+CredFlow is a full-stack Loan Management System built with React, Node.js, and MongoDB. It covers the complete loan lifecycle — authentication, EMI scheduling and payments, and role-based dashboards — with a clean and responsive UI.
 
 ---
 
